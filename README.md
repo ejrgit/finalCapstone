@@ -3,10 +3,10 @@ This repository for the final capstone project
 
 This is for the final capstone project.
 
-1. Brief description
-2. Methods used
-3. How it can be used
-4. Credits and Highlights
+Section 1. Brief description
+Section 2. Methods used
+Section 3. How it can be used
+Section 4. Credits and Highlights
 
 1.  The final Capstone project covers Image Processing using the MNIST dataset.  It uses machine learning techniques built into Python to show accuracy and precision of the image processiing task.
 
